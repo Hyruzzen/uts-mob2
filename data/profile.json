@@ -1,0 +1,25 @@
+{
+  "name": "Muhammad Ajam Jamaludin",
+  "nim": "242505032",
+  "university": "Universitas Ma'soem",
+  "roles": [
+    "Web Developer",
+    "Mobile Developer"
+  ],
+  "heading": "Tentang Saya",
+  "bio": "Mahasiswa yang memiliki ketertarikan pada pengembangan aplikasi web dan mobile serta terus mengembangkan kemampuan dalam bidang teknologi informasi.",
+  "contact": {
+    "email": "ajamjamaludin@gmail.com",
+    "phone": "+62 812-3456-7890",
+    "location": "Bandung, Jawa Barat, Indonesia",
+    "github": "https://github.com/ajamjamaludin",
+    "linkedin": "https://linkedin.com/in/ajamjamaludin"
+  },
+  "hobbies": [
+    "Mobile App Development",
+    "UI/UX Exploration",
+    "Open Source Community",
+    "Reading Tech Articles",
+    "Badminton"
+  ]
+}

@@ -1,0 +1,111 @@
+[
+  {
+    "category": "Mobile Development",
+    "icon": "phone-portrait-outline",
+    "skills": [
+      {
+        "name": "React Native",
+        "level": 90,
+        "mastery": "Advanced"
+      },
+      {
+        "name": "Expo Framework",
+        "level": 88,
+        "mastery": "Advanced"
+      },
+      {
+        "name": "Expo Router",
+        "level": 85,
+        "mastery": "Advanced"
+      },
+      {
+        "name": "Mobile UI/UX Design",
+        "level": 82,
+        "mastery": "Intermediate"
+      }
+    ]
+  },
+  {
+    "category": "Web Development",
+    "icon": "globe-outline",
+    "skills": [
+      {
+        "name": "JavaScript (ES6+)",
+        "level": 90,
+        "mastery": "Advanced"
+      },
+      {
+        "name": "React.js",
+        "level": 85,
+        "mastery": "Advanced"
+      },
+      {
+        "name": "HTML5 & CSS3",
+        "level": 92,
+        "mastery": "Expert"
+      },
+      {
+        "name": "Tailwind CSS",
+        "level": 86,
+        "mastery": "Advanced"
+      }
+    ]
+  },
+  {
+    "category": "Backend & Database",
+    "icon": "server-outline",
+    "skills": [
+      {
+        "name": "PHP",
+        "level": 85,
+        "mastery": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": 78,
+        "mastery": "Intermediate"
+      },
+      {
+        "name": "Express.js",
+        "level": 75,
+        "mastery": "Intermediate"
+      },
+      {
+        "name": "MySQL / PostgreSQL",
+        "level": 80,
+        "mastery": "Intermediate"
+      },
+      {
+        "name": "RESTful API",
+        "level": 84,
+        "mastery": "Advanced"
+      }
+    ]
+  },
+  {
+    "category": "Tools & Workflow",
+    "icon": "construct-outline",
+    "skills": [
+      {
+        "name": "Git & GitHub",
+        "level": 88,
+        "mastery": "Advanced"
+      },
+      {
+        "name": "VS Code",
+        "level": 94,
+        "mastery": "Expert"
+      },
+      {
+        "name": "Figma",
+        "level": 80,
+        "mastery": "Intermediate"
+      },
+      {
+        "name": "Postman",
+        "level": 82,
+        "mastery": "Intermediate"
+      }
+    ]
+  }
+]

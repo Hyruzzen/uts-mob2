@@ -1,0 +1,58 @@
+{
+  "student": {
+    "name": "Muhammad Ajam Jamaludin",
+    "nim": "242505032",
+    "university": "Universitas Ma'soem"
+  },
+  "course": {
+    "name": "Pemrograman Mobile 2",
+    "code": "IF-MOB2024",
+    "lecturer": "Iin, M.Kom.",
+    "semester": "Ganjil 2024/2025"
+  },
+  "currentScore": {
+    "score": 89,
+    "grade": "A",
+    "status": "Sangat Baik / Lulus Sempurna",
+    "letterColor": "#10B981"
+  },
+  "learningPoints": {
+    "total": 12375,
+    "unit": "LP",
+    "rank": "Top Tier Contributor"
+  },
+  "learningProgress": [
+    {
+      "id": "prog-1",
+      "label": "Attendance",
+      "percentage": 100,
+      "color": "#10B981",
+      "icon": "calendar-outline",
+      "description": "Kehadiran perkuliahan penuh"
+    },
+    {
+      "id": "prog-2",
+      "label": "Practice",
+      "percentage": 87,
+      "color": "#0284C7",
+      "icon": "code-slash-outline",
+      "description": "Pengerjaan latihan mandiri & modul"
+    },
+    {
+      "id": "prog-3",
+      "label": "Quest",
+      "percentage": 95,
+      "color": "#F59E0B",
+      "icon": "flash-outline",
+      "description": "Tugas mingguan dan studi kasus"
+    },
+    {
+      "id": "prog-4",
+      "label": "Challenge",
+      "percentage": 100,
+      "color": "#8B5CF6",
+      "icon": "trophy-outline",
+      "description": "Penyelesaian tantangan kumulatif UTS"
+    }
+  ]
+}

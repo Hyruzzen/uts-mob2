@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "title": "Personal CV & Academic Score App",
+    "category": "Mobile",
+    "description": "Aplikasi mobile digital CV mahasiswa dan dashboard akademik terintegrasi dibangun dengan React Native, Expo, dan Expo Router untuk UTS Pemrograman Mobile 2.",
+    "tech": ["React Native", "Expo", "Expo Router", "JavaScript"],
+    "date": "2024",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "E-Commerce Mobile Store",
+    "category": "Mobile",
+    "description": "Aplikasi katalog belanja mobile responsif dengan fitur pencarian produk, keranjang belanja (cart), dan filter kategori barang.",
+    "tech": ["React Native", "Expo", "Context API", "StyleSheet"],
+    "date": "2024",
+    "featured": true
+  },
+  {
+    "id": "3",
+    "title": "Aplikasi Kalkulator Sederhana",
+    "category": "Mobile",
+    "description": "Aplikasi mobile kalkulator interaktif dengan operasi aritmatika dasar, riwayat perhitungan, dan layout tombol numerik yang responsif.",
+    "tech": ["React Native", "Expo", "JavaScript", "StyleSheet"],
+    "date": "2024",
+    "featured": true
+  },
+  {
+    "id": "4",
+    "title": "Task & Habit Tracker App",
+    "category": "Mobile",
+    "description": "Aplikasi pelacak kebiasaan dan tugas harian dengan visual progress bar, sistem streak hari, dan penyimpanan preferensi lokal.",
+    "tech": ["React Native", "Expo", "AsyncStorage"],
+    "date": "2023",
+    "featured": false
+  },
+  {
+    "id": "5",
+    "title": "Landing Page Portofolio Developer",
+    "category": "Web",
+    "description": "Website portofolio developer modern dan minimalis dengan navigasi responsif, mode gelap, dan formulir kontak dinamis.",
+    "tech": ["HTML5", "Tailwind CSS", "JavaScript"],
+    "date": "2023",
+    "featured": false
+  }
+]

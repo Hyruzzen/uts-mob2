@@ -1,0 +1,36 @@
+{
+  "education": [
+    {
+      "id": "edu-1",
+      "institution": "Universitas Ma'soem",
+      "major": "Sistem Informasi",
+      "period": "2024 - Sekarang",
+      "status": "Mahasiswa Aktif",
+      "description": "Fokus pada pengembangan rekayasa perangkat lunak, algoritma pemrograman, web development, dan pemrograman mobile berbasis Android."
+    },
+    {
+      "id": "edu-2",
+      "institution": "SMA / SMK Sederajat",
+      "major": "Teknik Komputer & Jaringan",
+      "period": "2021 - 2024",
+      "status": "Lulus",
+      "description": "Mendalami dasar arsitektur komputer, serta perakitan dan konfigurasi jaringan."
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-1",
+      "role": "Pengembang Aplikasi Mobile (Project-Based)",
+      "organization": "Proyek Mandiri & Perkuliahan",
+      "period": "2024 - Sekarang",
+      "description": "Merancang dan membangun aplikasi mobile menggunakan ekosistem React Native, Expo Framework, dan manajemen state modern."
+    },
+    {
+      "id": "exp-2",
+      "role": "Anggota Komunitas Developer Mahasiswa",
+      "organization": "Komunitas Teknologi Kampus",
+      "period": "2024 - Sekarang",
+      "description": "Aktif berpartisipasi dalam diskusi teknologi open source."
+    }
+  ]
+}
